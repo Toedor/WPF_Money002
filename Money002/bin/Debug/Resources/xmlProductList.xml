@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name="Молоко">
+    <countType>литр</countType>
+    <mass>0,8</mass>
+    <price>49,88</price>
+    <sum>39,9</sum>
+    <group>Продукты</group>
+  </product>
+  <product name="Яйца">
+    <countType>шт</countType>
+    <mass>10</mass>
+    <price>6,3</price>
+    <sum>63</sum>
+    <group>Продукты</group>
+  </product>
+  <product name="Картофель">
+    <countType>кг</countType>
+    <mass>1,5</mass>
+    <price>30</price>
+    <sum>45</sum>
+    <group>Продукты</group>
+  </product>
+  <product name="Хлеб">
+    <countType>кг</countType>
+    <mass>0,33</mass>
+    <price>81,82</price>
+    <sum>27</sum>
+    <group>Продукты</group>
+  </product>
+  <product name="Сигареты">
+    <countType>шт</countType>
+    <mass>1</mass>
+    <price>105</price>
+    <sum>105</sum>
+    <group>Гадость</group>
+  </product>
+</products>

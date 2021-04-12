@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name="Яйца">
+    <countType>шт</countType>
+    <mass>10</mass>
+    <price>6,35</price>
+  </product>
+  <product name="Хлеб">
+    <countType>кг</countType>
+    <mass>0,3</mass>
+    <price>130</price>
+  </product>
+  <product name="Сахар">
+    <countType>кг</countType>
+    <mass>0,8</mass>
+    <price>51,25</price>
+  </product>
+</products>
